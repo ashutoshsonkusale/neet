@@ -9,7 +9,7 @@ export default function Step4({ onMessageSelect }: Step4Props) {
 
   return (
     <div className="animate-fade-in flex justify-center">
-      <div className="card-container w-full max-w-[420px] px-4"> {/* 🔥 width increased */}
+      <div className="card-container w-[420px]"> {/* 🔥 width increased */}
 
         {/* Title */}
         <div className="text-center mb-6">
