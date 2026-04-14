@@ -8,9 +8,9 @@ export default function Step3({ onSelectMessage }: Step3Props) {
   const [activeIndexes, setActiveIndexes] = useState<number[]>([]);
 
   const messages = [
-    "I messed up... and I'm really sorry for that.",
-    "I promise I will be better.",
-    "Please forgive me."
+    "You’ve come so far already… don’t let a moment of doubt make you forget that.",
+    "You’re stronger than you think… and honestly, it’s kind of impressive.",
+    "I believe in you not just today, but in everything you’re becoming."
   ];
 
   const colors = [

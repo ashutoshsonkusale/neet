@@ -25,7 +25,7 @@ export default function Step2({ onNext }: Step2Props) {
         {/* Content */}
         <div className="text-center mb-6">
           <p className="text-base text-[#6b5b5b] leading-relaxed font-medium px-6">
-            I know I hurt you... and I've been feeling bad about it.
+            I know NEET pressure is crazy… and you might be really tired too, even if you don’t say it.
           </p>
         </div>
 

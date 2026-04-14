@@ -56,7 +56,7 @@ export default function Step4({ onMessageSelect }: Step4Props) {
             {/* HEADER */}
             <div className="pt-6 pb-2 text-center">
               <h2 className="text-4xl font-script text-[#6b3f4e]">
-                I'm Sorry
+                You got this ❤️
               </h2>
             </div>
 
@@ -72,20 +72,36 @@ export default function Step4({ onMessageSelect }: Step4Props) {
             >
               <div className="space-y-3">
                 <p>
-                  I know it might seem like a small thing, but I genuinely feel bad for not remembering your birthday, even though you had already told me.
-                </p>
+  I know things might feel a little overwhelming right now… and maybe you’re tired too, even if you don’t say it out loud.
+</p>
 
-                <p>
-                  I’m honestly really bad with dates, but that’s not an excuse. You matter to me, and I hate that I made it seem like you don’t.
-                </p>
+<p>
+  But honestly, I’ve seen how much effort you’ve been putting in, how consistent you’ve been… and it’s actually really impressive.
+</p>
 
-                <p>
-                  I’m really sorry for this. Next time I’ll make sure I remember and not just remember, we’ll celebrate it properly.
-                </p>
+<p>
+  Even if it feels tough sometimes, you’re already doing way more than most people ever would. And that truly matters.
+</p>
 
-                <p>
-                  I really don’t want small mistakes like this to affect what we have.
-                </p>
+<p>
+  This exam doesn’t define you… but I know you’re going to do really well. You already have that future doctor energy in you.
+</p>
+
+<p>
+  I just really hope you get into the college you want… you deserve that more than anything.
+</p>
+
+<p>
+  And no matter what happens, I just want you to know I’m always with you. Always.
+</p>
+
+<p>
+  So just focus, give your best, and get this done… and once it’s all over, we’ll celebrate properly.
+</p>
+
+<p>
+  I’ll come meet you, and we’ll make it a moment worth remembering.
+</p>
               </div>
             </div>
 

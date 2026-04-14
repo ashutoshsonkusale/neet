@@ -25,7 +25,7 @@ export default function Step1({ onNext }: Step1Props) {
         {/* Text Content */}
         <div className="text-center mb-6">
           <h1 className="font-script text-4xl text-[#6b3f4e] mb-3">
-            Hey Cutiepie
+            Hey cutie future doctor 🩺
           </h1>
 
           <p className="text-base text-[#6b5b5b] leading-relaxed font-medium px-6">
